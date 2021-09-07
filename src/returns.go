@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//función variatica
+//función variadica
 func sum(values ...int) int {
 	total := 0
 
